@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "scEH2wfgR8fDK6/9H21Dq74mx8BhzkFDYP8/1djFSC4azswmDK+27dreb4cMLYWBsiGH5M1L6az9u92EHH56tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chadf\\source\\repos\\ArmaReforgerModHelper\\ArmaReforgerModHelper\\ArmaReforgerModHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chadf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
